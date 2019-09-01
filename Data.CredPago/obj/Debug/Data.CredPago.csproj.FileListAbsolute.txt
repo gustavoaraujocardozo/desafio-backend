@@ -1,0 +1,6 @@
+C:\inetpub\wwwroot\CredPago\CredPago\Data.CredPago\bin\Debug\Data.CredPago.dll
+C:\inetpub\wwwroot\CredPago\CredPago\Data.CredPago\bin\Debug\Data.CredPago.pdb
+C:\inetpub\wwwroot\CredPago\CredPago\Data.CredPago\obj\Debug\Data.CredPago.csprojAssemblyReference.cache
+C:\inetpub\wwwroot\CredPago\CredPago\Data.CredPago\obj\Debug\Data.CredPago.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\CredPago\CredPago\Data.CredPago\obj\Debug\Data.CredPago.dll
+C:\inetpub\wwwroot\CredPago\CredPago\Data.CredPago\obj\Debug\Data.CredPago.pdb
